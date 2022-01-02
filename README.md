@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Devilem_py?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Devilem-xD&screen_name=Devilem_py)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilem-xD&count_private=true&include_all_commits=true&show_icons=true&theme=gotham)
+![Devilem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilem-xD&count_private=true&include_all_commits=true&show_icons=true&theme=gotham)
 
 ## I'm Software Engineer
 
