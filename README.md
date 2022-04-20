@@ -1,6 +1,6 @@
 ### Devilem: Software Engineer
 
-## Languages and Tools:
+## Technologies:
 
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width="6.5%" class="d-block rounded-1 mr-3 flex-shrink-0" alt="python logo">
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/django.svg" width="6.5%" class="d-block rounded-1 mr-3 flex-shrink-0" alt="django logo">
