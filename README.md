@@ -2,8 +2,8 @@
 
 ## Technologies:
 
-<img align="left" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="6.5%" alt="nest logo">
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg" width="6.5%" alt="typescript logo">
+<img align="left" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="6.5%" alt="nest logo">
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg" width="6.5%" alt="react logo">
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg" width="6.5%" alt="node logo">
 <img align="left" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg" width="6.5%" alt="bootstrap logo">
