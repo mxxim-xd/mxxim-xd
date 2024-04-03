@@ -20,6 +20,4 @@
 
 <img align="left" alt="react" width="7%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg">
 
-<img align="left" alt="node" width="7%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg">
-
-<img align="left" alt="git" width="7%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg" />
+<img align="left" alt="android" width="7%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/android.svg">
